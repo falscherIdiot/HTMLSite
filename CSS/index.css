@@ -44,6 +44,11 @@ body {
 	background-color: #666;
 	color: white;
 }
+.navbar a.active-right {
+	float: right;
+	background-color: #666;
+	color: white;
+}
 .row {  
 	display: -ms-flexbox; /* IE10 */
 	display: flex;
@@ -62,4 +67,8 @@ body {
 	flex: 70%;
 	background-color: white;
 	padding: 20px;
+}
+.kntimg{
+	border-radius: 50%;
+	width: 20%;
 }
